@@ -18,3 +18,5 @@ Déconnectez-vous de votre session, puis placez-vous dans votre dossier scripts.
 Enfin, entrez la commande suivante : ln -s ass.sh ass
 
 Vous pouvez à présent utiliser ce scipt de n'importe quel dossier en tapant ass fichier.sh s.
+
+Ce projet est sous licence MIT.
