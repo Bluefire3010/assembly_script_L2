@@ -19,6 +19,6 @@ export PATH=$PATH:le chemin vers votre dossier scripts
 Déconnectez-vous de votre session, puis placez-vous dans votre dossier scripts.
 Enfin, entrez la commande suivante : ln -s ass.sh ass
 
-Vous pouvez à présent utiliser ce scipt de n'importe quel dossier en tapant ass fichier.sh .
+Vous pouvez à présent utiliser ce script de n'importe quel dossier en tapant ass fichier.sh .
 
 Ce projet est sous licence MIT.
