@@ -1,5 +1,6 @@
 # assembly_script_L2
 Ce script bash permet d'exécuter les différentes commandes pour assembler et vérifier un code assembleur (valable pour la L2 Info de ST-Etienne).
+
 ps: il relance notamment ddd, donc plus besoin de le fermer à chaque fois.
 
 Toute suggestion pour l'améliorer est la bienvenue.
